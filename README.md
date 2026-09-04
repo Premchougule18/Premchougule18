@@ -9,7 +9,7 @@ I enjoy working with Machine Learning, Deep Learning, NLP, Generative AI, RAG, a
 🎓 Artificial Intelligence & Data Science Student
 🤖 Aspiring AI Engineer
 🔭 Building real-world AI/ML projects
-🧠 Exploring Generative AI, RAG & Agentic AI
+🧠 Exploring Generative AI, RAG
 📚 Continuously learning new AI technologies
 ⚙️ Interested in production-ready AI applications
 🤝 Open to internships, collaborations & AI opportunities
